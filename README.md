@@ -76,10 +76,6 @@ const jhefferson = {
 ### Academia Fertex - Sitio Web Institucional
 **Landing page moderna y optimizada para academia de artes marciales**
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Novita17x/fertex/main/public/screen/inicio.png" alt="Fertex Preview" width="600"/>
-</div>
-
 **Stack:** React · Tailwind CSS · JavaScript
 
 **Características:**
@@ -97,10 +93,6 @@ const jhefferson = {
 
 ### Sistema Mesa de Partes Virtual
 **Plataforma completa para digitalización de trámites administrativos**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Novita17x/mesa-de-partes-ccjn/main/screens/solicitud.png" alt="Mesa de Partes Preview" width="600"/>
-</div>
 
 **Stack:** JavaScript · HTML5 · CSS3 · Firebase
 
