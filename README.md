@@ -14,8 +14,8 @@
   <a href="https://www.linkedin.com/in/jhefferson-guerrero/">
     <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/jhefferson-guerrero">
-    <img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://portafolio-jhefferson.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
