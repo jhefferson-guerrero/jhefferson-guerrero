@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/jhefferson-guerrero/">
     <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://portafolio-jhefferson.netlify.app/">
+  <a href="https://jhefferson-guerrero.website">
     <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
