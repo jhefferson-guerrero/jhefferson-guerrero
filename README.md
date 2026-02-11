@@ -28,7 +28,7 @@
 
 Apasionado por la tecnología y el desarrollo web, especialmente por crear interfaces que no solo se vean bien, sino que funcionen excepcionalmente. Me motiva aprender constantemente nuevas herramientas, descubrir diseños web innovadores y entender cómo funcionan por dentro. Disfruto del proceso de transformar ideas en aplicaciones web funcionales y escalables.
 
-Actualmente en 9º ciclo de Ingeniería de Software en la UTP, buscando **prácticas preprofesionales** donde pueda aportar mis habilidades en frontend mientras continúo creciendo como desarrollador.
+Egresado de Ingeniería de Software en la UTP, buscando **prácticas preprofesionales** donde pueda aportar mis habilidades en frontend mientras continúo creciendo como desarrollador.
 
 ```javascript
 const jhefferson = {
