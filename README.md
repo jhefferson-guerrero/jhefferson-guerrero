@@ -2,23 +2,15 @@
 
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" height="300px" />
 
+<h1>Jhefferson Guerrero</h1>
 
-<h1 style="font-size:35px">Jhefferson Guerrero</h1>
-
-### Desarrollador Web Frontend | Estudiante de Ingeniería de Software
+### Desarrollador Web Frontend | Egresado de Ingeniería de Software
 
 <div align="center">
-  <a href="mailto:jheffer17x@gmail.com">
-    <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jhefferson-guerrero/">
-    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://jhefferson-guerrero.website">
-    <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
+  <a href="mailto:jheffer17x@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/jhefferson-guerrero/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://jhefferson-guerrero.website"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </div>
-
 
 ---
 
@@ -28,12 +20,13 @@
 
 Apasionado por la tecnología y el desarrollo web, especialmente por crear interfaces que no solo se vean bien, sino que funcionen excepcionalmente. Me motiva aprender constantemente nuevas herramientas, descubrir diseños web innovadores y entender cómo funcionan por dentro. Disfruto del proceso de transformar ideas en aplicaciones web funcionales y escalables.
 
-Egresado de Ingeniería de Software en la UTP, buscando **prácticas preprofesionales** donde pueda aportar mis habilidades en frontend mientras continúo creciendo como desarrollador.
+Egresado de Ingeniería de Software en la UTP, buscando **prácticas preprofesionales** para obtener el bachillerato y aportar soluciones concretas a un equipo de desarrollo.
 
 ```javascript
 const jhefferson = {
   ubicacion: "Lima, Perú",
   enfoque: "Frontend Development",
+  educacion: "Egresado · Ingeniería de Software · UTP",
   aprendiendo: ["React avanzado", "Optimización web", "Nuevos frameworks"],
   intereses: ["Videojuegos", "Tech reviews", "Diseño UI/UX"],
   buscando: "Prácticas preprofesionales"
@@ -66,9 +59,21 @@ const jhefferson = {
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 </div>
+
+---
+
+## Experiencia
+
+### Academia Fertex Artes Marciales | Feb 2023 – Dic 2023
+**Desarrollador Web**
+
+- Diseñé y desarrollé el sitio web institucional con React y Tailwind CSS, digitalizando la información de servicios, horarios y captación de alumnos.
+- Implementé optimizaciones de performance como lazy loading, skeleton loading e Intersection Observer, mejorando la experiencia en dispositivos móviles.
+- Gestioné la comunicación digital vía Facebook y WhatsApp para más de 150 familias, apoyando la captación de nuevos alumnos.
 
 ---
 
@@ -79,12 +84,10 @@ const jhefferson = {
 
 **Stack:** React · Tailwind CSS · JavaScript
 
-**Características:**
 - Diseño mobile-first con optimización de performance
 - Skeleton loading y lazy loading de recursos
 - Intersection Observer para animaciones progresivas
-- Información de disciplinas, horarios e instructores
-- Mapa integrado de ubicación
+- Información de disciplinas, horarios e instructores y mapa integrado
 
 **Impacto:** Incrementó la visibilidad digital y facilitó la captación de nuevos alumnos (+200 familias activas)
 
@@ -97,14 +100,12 @@ const jhefferson = {
 
 **Stack:** JavaScript · HTML5 · CSS3 · Firebase
 
-**Funcionalidades:**
 - Sistema de autenticación completo (registro, login, recuperación)
 - Dashboard personalizado con historial de trámites
 - Carga y envío de documentos con validación
-- Notificaciones automáticas por email
-- Sincronización en tiempo real con Firestore
+- Notificaciones automáticas por email y sincronización en tiempo real con Firestore
 
-**Impacto:** Automatización del 100% del proceso de recepción documental, eliminando tiempos de espera y errores manuales
+**Impacto:** Automatización del 100% del proceso de recepción documental
 
 [Ver demo](https://mesa-de-partes-5c6c2.web.app/) · [Ver código](https://github.com/jhefferson-guerrero/mesa-de-partes-ccjn)
 
@@ -120,36 +121,12 @@ const jhefferson = {
 - Huye Game - Juego de habilidad y reflejos
 - Reconocimiento de Voz - Experimento con Web Speech API
 
----
-
-## GitHub Stats
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhefferson-guerrero&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B794F4&text_color=C9D1D9" alt="Top Languages" height="170"/>
-</div>
 
 ---
 
 ## Actualmente
 
-- Cursando 9º ciclo de Ingeniería de Software en UTP
+- Egresado de Ingeniería de Software en UTP
 - Buscando prácticas preprofesionales en desarrollo frontend
 - Aprendiendo sobre optimización web y mejores prácticas en React
 - Explorando nuevas tendencias en diseño UI/UX
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
