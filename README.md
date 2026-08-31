@@ -106,7 +106,7 @@ Lideré la digitalización inicial de la academia y recientemente estuve a cargo
 
 ---
 
-### Sistema de Gestión para Academia de Taekwondo (ERP)
+### 🥋 Sistema de Gestión para Academia de Taekwondo (ERP)
 
 **Plataforma integral web para administración, control de alumnos y finanzas** *Stack: React 19 · Tailwind CSS · Supabase · Recharts*
 
