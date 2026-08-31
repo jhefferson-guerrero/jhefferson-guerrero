@@ -76,7 +76,8 @@ Lideré la digitalización inicial de la academia y recientemente estuve a cargo
 - **Renovación Tecnológica:** Rediseñé y desarrollé desde cero la nueva plataforma web utilizando **React, Vite y Tailwind CSS v4**, implementando una estética Brutalista moderna, animaciones con **Framer Motion** y scroll fluido con **Lenis**.
 - **Optimización y SEO:** Configuración técnica avanzada (JSON-LD, Open Graph, Core Web Vitals) y migración de la infraestructura hacia **Vercel** para asegurar tiempos de carga casi instantáneos.
 - **Impacto y Gestión:** Desarrollé la landing page original que digitalizó los servicios y horarios, y gestioné la comunicación digital (WhatsApp/Facebook) para más de 150 familias, apoyando la captación de nuevos alumnos.
-- 🔗 [Ver Proyecto en Vivo](https://www.taekwondofertex.com/) | 💻 [Ver Código](https://github.com/jhefferson-guerrero/fertex-web)
+  
+🔗 [Ver Proyecto en Vivo](https://www.taekwondofertex.com/) | 💻 [Ver Código](https://github.com/jhefferson-guerrero/fertex-web)
 
 ---
 
@@ -90,7 +91,8 @@ Lideré la digitalización inicial de la academia y recientemente estuve a cargo
 - Dashboard personalizado con historial de trámites y validación de carga de documentos.
 - Notificaciones automáticas por email y sincronización en tiempo real con Firestore.
 - **Impacto:** Automatización del 100% del proceso de recepción documental.
-- 🔗 [Ver demo](https://mesa-de-partes-5c6c2.web.app/) | 💻 [Ver código](https://github.com/jhefferson-guerrero/mesa-de-partes-ccjn)
+  
+🔗 [Ver demo](https://mesa-de-partes-5c6c2.web.app/) | 💻 [Ver código](https://github.com/jhefferson-guerrero/mesa-de-partes-ccjn)
 
 ---
 
@@ -99,18 +101,21 @@ Lideré la digitalización inicial de la academia y recientemente estuve a cargo
 *Stack: React · Vite · Tailwind CSS*
 - Diseño UI/UX enfocado en producto y conversión (Mobile-first).
 - Rendimiento optimizado, animaciones fluidas y despliegue automatizado en Vercel.
-- 🔗 [Ver Proyecto en Vivo](https://pasteliabakery.vercel.app/) | 💻 [Ver Código](https://github.com/jhefferson-guerrero/pastelia-landing)
+  
+🔗 [Ver Proyecto en Vivo](https://pasteliabakery.vercel.app/) | 💻 [Ver Código](https://github.com/jhefferson-guerrero/pastelia-landing)
 
 ---
 
-### Fertex Admin Portal (ERP Interno)
-**Sistema integral de gestión administrativa y control de alumnos**
-*Stack: React · Tailwind CSS · Base de Datos (Ajusta tu stack aquí)*
-- Desarrollo de un panel administrativo (Dashboard) seguro con autenticación (Cloudflare Turnstile).
-- Módulos completos para gestión de: Alumnos, Pagos, Grados, Asistencia y Profesores.
-- Visualización de datos y métricas financieras en tiempo real con gráficos interactivos.
-- **Impacto:** Digitalización y automatización total de la administración interna de la academia.
-- 💻 [Ver Código](https://github.com/jhefferson-guerrero/AQUI-TU-REPO-ADMIN)
+### Sistema de Gestión para Academia de Taekwondo (ERP)
+
+**Plataforma integral web para administración, control de alumnos y finanzas** *Stack: React 19 · Tailwind CSS · Supabase · Recharts*
+
+- Desarrollo de un panel administrativo (Dashboard) seguro con sistema de autenticación y protección anti-bots (Cloudflare Turnstile).
+- Módulos centralizados para la gestión eficiente de: Alumnos, Mensualidades (Pagos), Promoción de Cinturones, Asistencias y Profesores.
+- Visualización de datos en tiempo real mediante gráficos interactivos y generación de reportes financieros exportables a PDF.
+- **Impacto:** Digitalización, automatización y optimización total de la carga administrativa y operativa interna del dojang.
+  
+💻 [Ver Código](https://github.com/jhefferson-guerrero/sistema-taekwondo)
 
 ---
 
