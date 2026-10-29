@@ -103,6 +103,7 @@ Lideré la digitalización inicial de la academia y, recientemente, la renovaci�
 
 ### CBS Perú - Sitio Web Corporativo
 **Sitio institucional para una constructora de obras de saneamiento en Perú y Brasil**
+
 *Stack: React 19 · TypeScript · Vite · Tailwind CSS 4 · Framer Motion · Vercel*
 
 - Desarrollé un sitio multipágina con empresa, certificaciones, clientes, contacto y una página por proyecto.
@@ -115,6 +116,7 @@ Lideré la digitalización inicial de la academia y, recientemente, la renovaci�
 
 ### Sistema de Gestión para Academia de Taekwondo (ERP)
 **Plataforma web integral para administración, control de alumnos y finanzas**
+
 *Stack: React 19 · Tailwind CSS · Supabase · Recharts*
 
 - Desarrollé un panel administrativo seguro con autenticación y protección anti-bots (Cloudflare Turnstile).
@@ -128,6 +130,7 @@ Lideré la digitalización inicial de la academia y, recientemente, la renovaci�
 
 ### Sistema Mesa de Partes Virtual
 **Plataforma completa para digitalizar trámites administrativos**
+
 *Stack: JavaScript · HTML5 · CSS3 · Firebase*
 
 - Implementé un sistema de autenticación completo (registro, login y recuperación de cuenta).
@@ -141,6 +144,7 @@ Lideré la digitalización inicial de la academia y, recientemente, la renovaci�
 
 ### Pastelia Bakery - Landing Page
 **Sitio web moderno y atractivo para repostería**
+
 *Stack: React 19 · Vite · Tailwind CSS 4 · Framer Motion · Lenis · React Router*
 
 - Diseñé una landing page Mobile-first para una repostería artesanal (tortas, queques, clásicos y cuchareables), enfocada en el producto y la conversión.
