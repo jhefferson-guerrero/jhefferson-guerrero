@@ -4,7 +4,7 @@
 
 <h1>Jhefferson Guerrero</h1>
 
-### Desarrollador Web Frontend | Egresado de Ingeniería de Software (UTP)
+### Desarrollador Web Frontend | Bachiller en Ingeniería de Software (UTP)
 
 <div align="center">
   <a href="mailto:jheffer17x@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -22,13 +22,13 @@ Construyo interfaces web rápidas, con identidad visual propia y pensadas para c
 
 He trabajado en la web de una academia que atiende a más de 150 familias, en el sitio corporativo de una constructora de obras de saneamiento y en sistemas de gestión con paneles administrativos, pagos y reportes. Lo que más disfruto es encontrar el equilibrio entre una buena experiencia de usuario y un código limpio y escalable.
 
-Soy egresado de Ingeniería de Software en la UTP y actualmente realizo mis prácticas profesionales en el área de TI de CBS. Busco **nuevos retos profesionales** como Desarrollador Frontend, donde pueda aportar valor real desde el primer día.
+Soy bachiller en Ingeniería de Software de la UTP y realicé mis prácticas profesionales en el área de TI de CBS. Busco **nuevos retos profesionales** como Desarrollador Frontend, donde pueda aportar valor real desde el primer día.
 
 ```javascript
 const jhefferson = {
   ubicacion: "Lima, Perú",
   enfoque: "Frontend Development",
-  educacion: "Ingeniería de Software · Egresado UTP",
+  educacion: "Ingeniería de Software · Bachiller UTP",
   aprendiendo: ["React Avanzado", "Web Performance", "Animaciones (Framer Motion)"],
   intereses: ["Diseño UI/UX", "Tech reviews", "Videojuegos"]
 };
