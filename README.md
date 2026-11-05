@@ -129,14 +129,14 @@ Lideré la digitalización inicial de la academia y, recientemente, la renovaci�
 ---
 
 ### Sistema Mesa de Partes Virtual
-**Plataforma completa para digitalizar trámites administrativos**
+**Plataforma web para digitalizar y dar seguimiento a trámites administrativos**
 
 *Stack: JavaScript · HTML5 · CSS3 · Firebase*
 
-- Implementé un sistema de autenticación completo (registro, login y recuperación de cuenta).
-- Construí un dashboard personalizado con historial de trámites y validación de carga de documentos.
-- Integré notificaciones automáticas por email y sincronización en tiempo real con Firestore.
-- **Impacto:** Automaticé el 100% del proceso de recepción documental.
+- Implementé autenticación completa (registro, login y recuperación de cuenta) con roles de ciudadano y funcionario.
+- Construí el flujo de solicitudes con adjuntos, expediente correlativo, cargo en PDF y seguimiento por estados.
+- Desarrollé una bandeja para el funcionario, con respuesta con documentos, mensajes y avisos automáticos por correo.
+- **Impacto:** digitalicé el ciclo completo del trámite, desde la recepción hasta la respuesta al ciudadano.
 
 🔗 [Ver demo](https://mesa-de-partes-5c6c2.web.app/) | 💻 [Ver código](https://github.com/jhefferson-guerrero/mesa-de-partes-ccjn)
 
